@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* div {
+    color: black;
+  } */
+
+.div-ele{
+    color : red;
+}
+
+#heading-2{
+    color: blue;
+}
+
+.div_ele1 , #testing {
+    color: chartreuse;
+    background-color: chocolate;
+}
+
+.subsection.preview {
+    color: blue;
+  }
+  
